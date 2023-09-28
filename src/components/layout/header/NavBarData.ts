@@ -1,4 +1,4 @@
-import { ILink } from './interface'
+import { ILink } from './Interface'
 
 export const firstNav: ILink[] = [
 	{ title: 'Головна', link: '/' },
